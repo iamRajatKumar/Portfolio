@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a679fb15.css",
+    "main.js": "/Portfolio/static/js/main.db2edded.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/testpic.png": "/Portfolio/static/media/testpic.9c6bea2c28717be071f5.png",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.ec1ed7797355ff8c7220.pdf",
+    "static/media/reacttt.png": "/Portfolio/static/media/reacttt.7ec78c7e682f2317140d.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.9adb7cd1f47f9e305d0f.png",
+    "static/media/rajat.png": "/Portfolio/static/media/rajat.15af4823f61003af2ee9.png",
+    "static/media/omramconstruction.png": "/Portfolio/static/media/omramconstruction.e150c566e092e06b606d.png",
+    "static/media/java.png": "/Portfolio/static/media/java.0b416ef547a41c7c056b.png",
+    "index.html": "/Portfolio/index.html",
+    "main.a679fb15.css.map": "/Portfolio/static/css/main.a679fb15.css.map",
+    "main.db2edded.js.map": "/Portfolio/static/js/main.db2edded.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a679fb15.css",
+    "static/js/main.db2edded.js"
+  ]
+}

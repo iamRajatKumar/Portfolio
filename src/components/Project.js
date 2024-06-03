@@ -26,7 +26,7 @@ function Project() {
             <Tilt
             key={project.name}
             className='w-[300px] h-[500px] flex-col flex justify-evenly shadow-2xl m-10 items-center hover:shadow-2xl hover:shadow-violet-400
-            shadow-pink-300 p-3 rounded-xl border-2 border-violet-200'>
+            shadow-pink-300 p-5 rounded-xl border-2 border-violet-200'>
                 <div>
                     <div className='flex justify-center items-center mb-3'>
                         <div className='h-[40px] w-[40px] m-3 bg-slate-50 rounded-full shadow-lg shadow-violet-500
@@ -42,7 +42,7 @@ function Project() {
                             </a>
                         </div>
                     </div>
-                    <img src={project.image} alt={project.name} className='ml-2.5 h-[200px] w-[250px] self-center border-2 border-pink-200 rounded-2xl'/>
+                    <img src={project.image} alt={project.name} className='h-[200px] w-[250px] self-center border-2 border-pink-200 rounded-2xl'/>
                     <div className='text-center text-2xl pt-2 title'>
                         {project.name}
                     </div>

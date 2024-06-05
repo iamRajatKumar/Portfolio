@@ -4,7 +4,7 @@ import Footer from './components/Footer';
 import Main from './components/Main';
 import Navbar from './components/Navbar';
 import Overview from './components/Overview';
-import Project from './components/Project';
+// import Project from './components/Project';
 
 function App() {
   return (
